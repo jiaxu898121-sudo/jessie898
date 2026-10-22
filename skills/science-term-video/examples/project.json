@@ -1,0 +1,84 @@
+{
+  "title": "术语解释示例",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio_asset": "audio/mix.wav",
+  "cues": [
+    {
+      "time": 4,
+      "frequency_hz": 659.25,
+      "amplitude": 0.025
+    }
+  ],
+  "scenes": [
+    {
+      "id": "Hook",
+      "title": "从生活问题开始",
+      "duration": 4,
+      "beats": [
+        {
+          "at": 0,
+          "end": 4,
+          "zh": "提出不满，就算批评吗？",
+          "en": "Is every complaint a character attack?",
+          "type": "question",
+          "claim_ids": []
+        }
+      ],
+      "panels": [],
+      "note": "模板演示｜定义须按本轮主题重新核查。",
+      "note_claim_ids": []
+    },
+    {
+      "id": "Definition",
+      "title": "批评的含义",
+      "duration": 6,
+      "beats": [
+        {
+          "at": 0,
+          "end": 6,
+          "zh": "从具体行为，转向攻击人格。",
+          "en": "Shifting from a specific behavior to a character attack.",
+          "type": "definition",
+          "claim_ids": [
+            "C1"
+          ]
+        }
+      ],
+      "panels": [
+        {
+          "at": 2,
+          "end": 6,
+          "label": "自编情境示例",
+          "zh": "“你就是个自私的人。”",
+          "en": "“You are a selfish person.”",
+          "type": "illustration",
+          "claim_ids": []
+        }
+      ],
+      "note": "据Gottman框架概括；这里讨论的不是所有日常批评。",
+      "note_claim_ids": [
+        "C1"
+      ]
+    },
+    {
+      "id": "Closing",
+      "title": "回到开头",
+      "duration": 4,
+      "beats": [
+        {
+          "at": 0,
+          "end": 4,
+          "zh": "你会怎样把这句话说具体？",
+          "en": "How would you make that complaint specific?",
+          "type": "invitation",
+          "claim_ids": []
+        }
+      ],
+      "panels": [],
+      "note": "情境例句为创作，不是受试者原话。",
+      "note_claim_ids": []
+    }
+  ]
+}

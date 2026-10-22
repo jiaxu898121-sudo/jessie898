@@ -1,0 +1,27 @@
+{
+  "topic": "专业术语：批评",
+  "terms": [
+    "批评"
+  ],
+  "audience": "普通成年人",
+  "question": "提出不满与攻击人格有什么不同？",
+  "duration_seconds": 14,
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "deliverable": "mp4",
+  "reference_project": null,
+  "locked_items": [
+    "深蓝灰背景",
+    "无嘴红帽小人",
+    "无旁白",
+    "中英字幕"
+  ],
+  "music": {
+    "path": null,
+    "mode": "silence"
+  },
+  "output_dir": "new-term-video"
+}
